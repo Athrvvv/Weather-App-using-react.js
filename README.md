@@ -38,15 +38,18 @@ To run this project locally, follow these steps:
    git clone https://github.com/Athrvvv/Weather-App-using-react.js.git
    
 2. Navigate into the project directory:
-   
+
+   ```bash
    cd Weather-App-using-react.js
    
 3. Install dependencies:
 
+   ```bash
    npm install
 
 4. Start the development server:
 
+   ```bash
    npm start
 
 5. Open http://localhost:3000 in your browser to view the app.

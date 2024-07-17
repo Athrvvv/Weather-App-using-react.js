@@ -1,6 +1,6 @@
 # Weather App using React.js
 
-![Project Image](preview.jpg)
+![Project Image](preview.png)
 
 ## Table of Contents
 

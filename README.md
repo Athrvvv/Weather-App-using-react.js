@@ -1,6 +1,6 @@
 # Weather App using React.js
 
-![Project Image](/path/to/your/screenshot.png)
+![Project Image](preview.jpg)
 
 ## Table of Contents
 
@@ -16,10 +16,6 @@
 ## Description
 
 A weather application built with React.js that allows users to check the current weather conditions for a specified city. The application fetches data from the WeatherAPI.com and displays the temperature, weather condition, and other relevant information.
-
-## Preview
-
-(preview.jpg) 
 
 ## Demo
 

@@ -74,11 +74,7 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
-### Notes:
 
-- Replace `/path/to/your/screenshot.png` with the actual path to your screenshot image.
-- Replace `/path/to/your/video.mp4` with the actual path to your video file or provide a link to your demo video.
-- Customize the installation steps, features, and technologies used sections based on your specific project details.
 
 
 

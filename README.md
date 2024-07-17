@@ -17,10 +17,6 @@
 
 A weather application built with React.js that allows users to check the current weather conditions for a specified city. The application fetches data from the WeatherAPI.com and displays the temperature, weather condition, and other relevant information.
 
-## Demo
-
-![Demo Video](preview.mp4)
-
 ## Features
 
 - Enter a city name to fetch current weather data.
